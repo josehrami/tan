@@ -1,2 +1,2 @@
-# tan
-tan is a go library pronounced tango
+# tan.go
+tan is a go module pronounced tango
